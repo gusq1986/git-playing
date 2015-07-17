@@ -1,3 +1,5 @@
-This is for playing around. To show checkout and other diff uses.
+This is for playing around. To show checkout and diff.
 
 Something something bla bla
+
+I'll show how diff can look across versions in history
